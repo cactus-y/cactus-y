@@ -20,6 +20,10 @@
     <td valign="top" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 10px;">
       <strong><a href="https://github.com/cactus-y/ReadLog">ReadLog</a></strong><br>
       자신이 인상깊게 읽은 책들의 구절들을 저장하고 언제든 꺼내 볼 수 있는 iOS 앱입니다.
+     <br>
+      An iOS app that can take pictures of phrases from books you have read and save them.
+     <br>
+     <a href="https://apps.apple.com/us/app/%EC%B1%85%EA%B3%BC-%EB%82%98%EC%9D%98-%EC%A1%B0%EA%B0%81-%ED%8E%B8%ED%95%9C-%EB%8F%85%EC%84%9C-%EA%B8%B0%EB%A1%9D/id6474217358?itsct=apps_box_badge&itscg=30200">Download</a>
     </td>
   </tr>
 </table>
@@ -33,6 +37,8 @@
     <td valign="top" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 10px;">
       <strong><a href="https://github.com/cactus-y/madcamp_week2_front">코노팟 (Conopod)</a></strong><br>
       혼코노에 질린 사람들을 위해 같이 코인 노래방에 갈 일행을 구하는 Android 앱입니다.
+     <br>
+     An Android app that seeks other people to go to karaoke together for people who went karaoke alone.
       <br>
     </td>
   </tr>
@@ -47,6 +53,8 @@
     <td valign="top" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 10px;">
       <strong><a href="https://github.com/cactus-y/Unimate_front">Unimate</a></strong><br>
       전국의 모든 대학생들과 익명으로 소통할 수 있는 대학생 전용 iOS 커뮤니티 앱입니다.
+     <br>
+     An iOS app dedicated to university students that allows them to communicate anonymously with all university students in Korea.
     </td>
   </tr>
 </table>
