@@ -67,8 +67,8 @@
     
 # 🔨 Once I've used
 <div style="display:flex; flex-direction:column;">
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <!-- App Dev -->
+    <p><strong>Apps</strong></p>
     <div>
         <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
         <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
