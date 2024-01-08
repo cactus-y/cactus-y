@@ -58,17 +58,12 @@
     </td>
   </tr>
 </table>
-
-## HYU Assignments
-### [CG 컴퓨터그래픽스](https://github.com/cactus-y/ComputerGraphics)
-### [DBMS 데이터베이스시스템](https://github.com/cactus-y/db_assignment)
-### [PL 프로그래밍언어론](https://github.com/cactus-y/ProgrammingLanguage)
 <br>
     
 # 🔨 Once I've used
 <div style="display:flex; flex-direction:column;">
     <!-- App Dev -->
-    <p><strong>Apps</strong></p>
+    <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
         <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
